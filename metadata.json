@@ -1,0 +1,6 @@
+{
+  "name": "PathPilot - AI Engineering Learning Companion",
+  "description": "Personalized AI-powered learning companion for engineering students. Features interactive knowledge assessments, curriculum navigation roadmaps, AI engineering mentor, diagnostic gap analysis, and learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
